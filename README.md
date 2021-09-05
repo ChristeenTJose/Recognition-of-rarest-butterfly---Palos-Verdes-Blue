@@ -95,6 +95,10 @@ Test Accuracy: 1.0
 
 #### Learning Curves:
 
+![Accuracy VS Epoch](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/7A.png)
+
+![Loss VS Epoch](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/7L.png)
+
 ---
 
 ### Discussion of results
