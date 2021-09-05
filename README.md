@@ -24,6 +24,9 @@ The Leeds Butterfly Dataset available on Kaggle was used for training and testin
 
 Now that the model was capable of successful classification on the Leeds Butterfly Dataset, a new species named “Glaucopsyche lygdamus” was added to the dataset. This species includes “Palos Verdes Blue” the world’s rarest butterfly. The Palos Verdes blue is a small endangered butterfly native to the
 
+## Phase - 1 
+### 2019 - 2020: Selecting a Deep Neural Network for Classification
+
 ## Project Outcome [2021 Updated]
 
 1.	Website where users can upload images/video feeds and get back the species of the butterfly(s) present.
@@ -34,9 +37,6 @@ Now that the model was capable of successful classification on the Leeds Butterf
 2.	[Why Are Butterflies Important?](https://sciencing.com/butterflies-important-8749269.html)
 
 ---
-
-# Phase - 1 
-## 2019 - 2020: Selecting a Deep Neural Network for Classification
 
 
 
