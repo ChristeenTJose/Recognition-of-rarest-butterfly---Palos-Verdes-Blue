@@ -37,7 +37,7 @@ In order to find the optimal model I applied transfer learning on VGG and Mobile
 
 A total 0f 10 different handbuilt, transfer learnt and fine tuned models were compared for this project, and some them showed upto 100% accuracy with loss of the order of 10^ (-6).
 
-The models compared are: 
+#### The models compared are: 
 
 Model 1: Hand built keras model
 
