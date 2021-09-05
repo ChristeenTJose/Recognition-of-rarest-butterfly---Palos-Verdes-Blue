@@ -55,7 +55,9 @@ Model 7: MobileNet (FINE TUNING 3 layers)
 
 Model 8: MobileNet (FINE TUNING 4 layers) 
 
-Model 9: MobileNet (FINE TUNING 5 layers) Model 10: MobileNet (FINE TUNED)
+Model 9: MobileNet (FINE TUNING 5 layers) 
+
+Model 10: MobileNet (FINE TUNED)
 
 ---
 
