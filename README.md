@@ -2,8 +2,9 @@
 
 Christeen T Jose
 
+---
 
-## Problem Statement
+## Problem Statement [2021 Updated]
 
 Through this project I aim to build a deep learning model capable of recognising the species of a butterfly given an image or video feed, and to deploy the model as an online tool where users can upload their images and get the name of the species back. The project will also include building custom datasets for all the interested species. The dataset will consist of images of butterflies belonging to each of the interested species and will be used to train the neural network for recognition.
 
@@ -17,7 +18,7 @@ Each fall, millions of monarch butterflies (Danaus plexippus) leave their summer
 
 In addition to being an indicator of climate change, butterflies are also sensitive to other threats such as habitat destruction. Changes in the behaviour of butterflies can warn people of the future effects of habitat loss on other animals.
 
-## Project Outcome
+## Project Outcome [2021 Updated]
 Products: 
 1.	Website where users can upload images/video feeds and get back the species of the butterfly(s) present.
 2.	Trained deep learning model that can recognise different butterfly species, particularly rare ones.
@@ -25,4 +26,6 @@ Products:
 ## References:
 1.	[Monarch Butterflies Migrate 3,000 Miles](https://www.nationalgeographic.com/news/2017/10/monarch-butterfly-migration/)
 2.	[Why Are Butterflies Important?](https://sciencing.com/butterflies-important-8749269.html)
+
+---
 
