@@ -129,6 +129,8 @@ Validation Loss VS Epoch
 
 MobileNet performs best in our scatter diagram of Test Loss Vs. Test Accuracy out of our hand-built model, VGG16, VGG19 and MobileNet: (Test Accuracy should be maximum and Test Loss should be minimum)
 
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R7.png)
+
 ---
 
 ### Phase 2: (2021) Custom object recognition
