@@ -12,9 +12,9 @@ Through this project I aim to build a deep learning model capable of recognising
 
 ## Motivation
 
-Butterflies are particularly sensitive to climate change. Scientists monitor butterflies for warning signs of climate change.
+An abundance of butterflies is often an indication that an ecosystem is thriving. Butterflies are a diverse group of insects containing around 20,000 different species. Each type has various behavioural and structural adaptations that allow them to survive in their environment.
 
-An example of these studies involves monitoring Edith‟s checkerspot butterflies in North America. According to the National Academy of Sciences, the distribution of these butterflies has shifted further north and to higher elevations as the result of an increase in temperature.
+Butterflies are particularly sensitive to climate change. Scientists monitor butterflies for warning signs of climate change. An example of these studies involves monitoring Edith‟s checkerspot butterflies in North America. According to the National Academy of Sciences, the distribution of these butterflies has shifted further north and to higher elevations as the result of an increase in temperature.
 
 Each fall, millions of monarch butterflies (Danaus plexippus) leave their summer breeding grounds in the northeastern U.S. and Canada and travel upwards of 3,000 miles to reach overwintering grounds in southwestern Mexico. But unlike birds or wildebeest that also embark on epic migrations, these individual butterflies will never return. As the days get shorter and the temperatures drop off, monarchs begin to abandon breeding and feeding territories in search of a safe place to spend the winter. For monarchs, that overwintering ground is found high up on just a few mountains in central Mexico. Once there, the monarchs huddle together by the millions on the branches of oyamel fir trees. A rise in avocado plantations taking over native forests has contributed to the monarch's decline.
 
