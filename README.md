@@ -89,6 +89,10 @@ Batch size= Test set size
 
 ### Optimal model found: MobileNet (3 Fine Tuned layers)
 
+Test Loss: 1.1293561783531914e-06 
+
+Test Accuracy: 1.0
+
 ---
 
 ### Phase 2: (2021) Custom object recognition
