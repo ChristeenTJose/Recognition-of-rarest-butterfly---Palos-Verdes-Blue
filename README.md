@@ -59,6 +59,27 @@ Model 9: MobileNet (FINE TUNING 5 layers)
 
 Model 10: MobileNet (FINE TUNED)
 
+#### Implementation
+
+##### Optimal model found: MobileNet (3 Fine Tuned layers)
+
+##### Constants:
+
+Training:
+Batch size for training set: 5
+Batch size for validation set: 2
+Training set size: 723
+Validation set size: 162
+Steps per epoch train: 144
+Steps per epoch validation: 81
+Number of epochs: 120
+Testing:
+Test set size: 19
+Batch size= Test set size
+
+
+
+
 ### Phase 2: (2021) Custom object recognition
 
 ### Phase 3: (2021) Online tool
