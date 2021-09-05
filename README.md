@@ -35,7 +35,7 @@ In order to find the optimal model I applied transfer learning on VGG and Mobile
 ## Results
 ### Phase 1: (2020) Selecting the optimal neural network architecture for classification
 
-Butterflies are essential to the survival of the ecosystem just like any other animal, but lately there are dying out due to several reasons, and environmental pollution playing a major role. Through this project I made an attempt to build a deep learning model, and particularly the most optimised model that is capable of recognising the world‟s rarest butterfly – „Palos Verdes Blue‟. A total 0f 10 different handbuilt, transfer learnt and fine tuned models were compared for this project, and some them showed upto 100% accuracy with loss of the order of 10^ (-6).
+A total 0f 10 different handbuilt, transfer learnt and fine tuned models were compared for this project, and some them showed upto 100% accuracy with loss of the order of 10^ (-6).
 
 The models compared are: 
 
