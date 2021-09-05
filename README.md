@@ -169,6 +169,10 @@ Thus, our optimum models are MobileNet with 3 fine-tuned layers, and the complet
 
 ## Conclusion:
 
+As Model 10 has a possibility of over fitting we can consider Model 7 to be the optimum model.
+
+Since the model was able to successfully recognise Palos Verdes Blue (the rarest butterfly in the world), further advancements in the project involve adding more species of butterflies, particularly endangered and rare ones to the dataset, and finally deploying a real time object recognition model.
+
 ---
 
 ## Project Outcome [2021 Updated]
