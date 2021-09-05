@@ -19,7 +19,7 @@ Each fall, millions of monarch butterflies (Danaus plexippus) leave their summer
 In addition to being an indicator of climate change, butterflies are also sensitive to other threats such as habitat destruction. Changes in the behaviour of butterflies can warn people of the future effects of habitat loss on other animals.
 
 ## Project Outcome [2021 Updated]
-Products: 
+
 1.	Website where users can upload images/video feeds and get back the species of the butterfly(s) present.
 2.	Trained deep learning model that can recognise different butterfly species, particularly rare ones.
 
