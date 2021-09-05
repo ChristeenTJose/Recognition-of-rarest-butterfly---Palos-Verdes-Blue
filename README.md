@@ -131,6 +131,24 @@ MobileNet performs best in our scatter diagram of Test Loss Vs. Test Accuracy ou
 
 ![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R7.png)
 
+Comparison among the different MobileNet models:
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R8.png)
+
+After eliminating MobileNet with 1 fine-tuned layer:
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R9.png)
+
+After eliminating MobileNet and MobileNet with 5 fine-tuned layers:
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R10.png)
+
+After eliminating MobileNet with 2 fine-tuned layers and MobileNet with 4 fine-tuned layers:
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R11.png)
+
+Thus, our optimum models are MobileNet with 3 fine-tuned layers, and the completely fine-tuned MobileNet model.
+
 ---
 
 ### Phase 2: (2021) Custom object recognition
