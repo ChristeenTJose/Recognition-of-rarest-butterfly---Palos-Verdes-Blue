@@ -33,7 +33,7 @@ In order to find the optimal model I applied transfer learning on VGG and Mobile
 ---
 
 ## Results
-### Phase 1: (2020) Selecting the optimal Deep Neural Network for Classification
+### Phase 1: (2020) Selecting the optimal neural network architecture for classification
 
 ---
 
