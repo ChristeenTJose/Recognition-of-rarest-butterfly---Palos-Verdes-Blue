@@ -103,7 +103,31 @@ Test Accuracy: 1.0
 
 ### Discussion of results
 
+MobileNet performs better than our hand-built model, VGG16 and VGG19.
 
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R1.png)
+
+Comparison of Transfer Learnt MobileNet models with varying levels of Fine Tuning:
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R2.png)
+
+Accuracy VS Epoch
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R3.png)
+
+Validation Accuracy VS Epoch
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R4.png)
+
+Loss VS Epoch
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R5.png)
+
+Validation Loss VS Epoch
+
+![](https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue/blob/master/Images/R6.png)
+
+MobileNet performs best in our scatter diagram of Test Loss Vs. Test Accuracy out of our hand-built model, VGG16, VGG19 and MobileNet: (Test Accuracy should be maximum and Test Loss should be minimum)
 
 ---
 
