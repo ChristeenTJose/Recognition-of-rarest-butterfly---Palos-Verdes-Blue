@@ -59,6 +59,8 @@ Model 9: MobileNet (FINE TUNING 5 layers)
 
 Model 10: MobileNet (FINE TUNED)
 
+---
+
 ### Training Constants:
 
 Batch size for training set: 5
