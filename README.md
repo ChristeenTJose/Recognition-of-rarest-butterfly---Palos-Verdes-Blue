@@ -185,7 +185,9 @@ Since the model was able to successfully recognise Palos Verdes Blue (the rarest
 1.	[Monarch Butterflies Migrate 3,000 Miles](https://www.nationalgeographic.com/news/2017/10/monarch-butterfly-migration/)
 2.	[Why Are Butterflies Important?](https://sciencing.com/butterflies-important-8749269.html)
 
-Citation for Leeds Butterfly Dataset:
+---
+
+## Citation for Leeds Butterfly Dataset:
 
 Josiah Wang, Katja Markert, and Mark Everingham
 
