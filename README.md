@@ -93,6 +93,14 @@ Test Loss: 1.1293561783531914e-06
 
 Test Accuracy: 1.0
 
+#### Learning Curves:
+
+---
+
+### Discussion of results
+
+
+
 ---
 
 ### Phase 2: (2021) Custom object recognition
