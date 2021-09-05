@@ -185,6 +185,12 @@ Since the model was able to successfully recognise Palos Verdes Blue (the rarest
 1.	[Monarch Butterflies Migrate 3,000 Miles](https://www.nationalgeographic.com/news/2017/10/monarch-butterfly-migration/)
 2.	[Why Are Butterflies Important?](https://sciencing.com/butterflies-important-8749269.html)
 
+Citation for Leeds Butterfly Dataset:
+
+Josiah Wang, Katja Markert, and Mark Everingham
+Learning Models for Object Recognition from Natural Language Descriptions
+In Proceedings of the 20th British Machine Vision Conference (BMVC2009) @InProceedings{Wang09, title = "Learning Models for Object Recognition from Natural Language Descriptions", author = "Josiah Wang and Katja Markert and Mark Everingham", booktitle = "Proceedings of the British Machine Vision Conference", year = "2009" }
+
 ---
 
 
