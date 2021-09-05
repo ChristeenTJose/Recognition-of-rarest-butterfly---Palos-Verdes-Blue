@@ -77,15 +77,23 @@ Steps per epoch validation: 81
 
 Number of epochs: 120
 
+---
+
 ### Testing Constants:
 
 Test set size: 19
 
 Batch size= Test set size
 
+---
+
 ### Optimal model found: MobileNet (3 Fine Tuned layers)
 
+---
+
 ### Phase 2: (2021) Custom object recognition
+
+---
 
 ### Phase 3: (2021) Online tool
 
