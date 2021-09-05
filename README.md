@@ -59,6 +59,10 @@ Model 9: MobileNet (FINE TUNING 5 layers)
 
 Model 10: MobileNet (FINE TUNED)
 
+### Phase 2: Custom object recognition
+
+### Phase 3: Online tool
+
 ---
 
 ## Project Outcome [2021 Updated]
