@@ -30,7 +30,7 @@ In addition to being an indicator of climate change, butterflies are also sensit
 ---
 
 # Phase - 1 
-## 2019 - 2020: Selecting a deep neural network for Classification
+## 2019 - 2020: Selecting a Deep Neural Network for Classification
 
 
 
