@@ -159,6 +159,18 @@ Thus, our optimum models are MobileNet with 3 fine-tuned layers, and the complet
 
 ---
 
+## VII. Constraints faced during execution:
+
+* Small size of the dataset (50-100 images per species) (solved using Data Augmentation).
+* Within certain species, subspecies can have easily distinguishable features; hence they need to be trained separately.
+* In case of certain species like Queen Alexandra's birdwing (the world's largest known butterfly species) males and females have different colours and hence need to be separately trained.
+
+---
+
+## Conclusion:
+
+---
+
 ## Project Outcome [2021 Updated]
 
 1.	Website where users can upload images/video feeds and get back the species of the butterfly(s) present.
