@@ -2,7 +2,7 @@
 
 ## Comparative study conducted by Christeen T Jose
 
-A total 0f 10 different handbuilt, transfer learnt and fine tuned models were compared for this project, and some them showed upto 100% accuracy with loss of the order of 10^ (-6).
+A total 0f 10 different neural network architectures were compared for this project, and some them showed upto 100% accuracy with loss of the order of 10^ (-6).
 
 ### The models compared are: 
 
