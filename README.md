@@ -1,6 +1,8 @@
 # Finding the optimal classifier for world's rarest butterfly (Palos Verdes Blue)
 
-## Comparative study conducted by Christeen T Jose [Demonstration video](https://youtu.be/_KQcvC8WHRk)
+## Comparative study conducted by Christeen T Jose 
+
+## [Click here for Demonstration video](https://youtu.be/_KQcvC8WHRk)
 
 A total 0f 10 different neural network architectures were compared for this project, and some them showed upto 100% accuracy with loss of order of 10^ (-6).
 
