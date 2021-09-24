@@ -2,7 +2,7 @@
 
 ## Comparative study conducted by Christeen T Jose
 
-A total 0f 10 different neural network architectures were compared for this project, and some them showed upto 100% accuracy with loss of the order of 10^ (-6).
+A total 0f 10 different neural network architectures were compared for this project, and some them showed upto 100% accuracy with loss of order of 10^ (-6).
 
 ### The models compared are: 
 
@@ -26,8 +26,6 @@ Model 9: MobileNet (FINE TUNING 5 layers)
 
 Model 10: MobileNet (FINE TUNED)
 
----
-
 ### Training Constants:
 
 Batch size for training set: 5
@@ -44,7 +42,6 @@ Steps per epoch validation: 81
 
 Number of epochs: 120
 
----
 
 ### Testing Constants:
 
