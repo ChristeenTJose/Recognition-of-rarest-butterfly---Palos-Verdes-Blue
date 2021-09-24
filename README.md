@@ -1,4 +1,4 @@
-# Recognition of Rarer Species of Butterflies from images using Artificial Intelligence
+# Finding the optimal classifier for world's rarest butterfly (Palos Verdes Blue)
 
 ## Comparative study conducted by Christeen T Jose
 
@@ -73,9 +73,9 @@ In order to find the optimal model I applied transfer learning on VGG and Mobile
 
 ### Optimal model found: MobileNet (3 Fine Tuned layers)
 
-Test Loss: 1.1293561783531914e-06 
+#### Test Loss: 1.1293561783531914e-06 
 
-Test Accuracy: 1.0
+#### Test Accuracy: 1.0
 
 #### Learning Curves:
 
