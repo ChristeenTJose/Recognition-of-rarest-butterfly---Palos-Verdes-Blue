@@ -151,15 +151,7 @@ Thus, our optimum models are MobileNet with 3 fine-tuned layers, and the complet
 
 ---
 
-### Phase 2: (2021) Custom object recognition
-
----
-
-### Phase 3: (2021) Online tool
-
----
-
-## VII. Constraints faced during execution:
+## Constraints faced during execution:
 
 * Small size of the dataset (50-100 images per species) (solved using Data Augmentation).
 * Within certain species, subspecies can have easily distinguishable features; hence they need to be trained separately.
@@ -172,13 +164,6 @@ Thus, our optimum models are MobileNet with 3 fine-tuned layers, and the complet
 As Model 10 has a possibility of over fitting we can consider Model 7 to be the optimum model.
 
 Since the model was able to successfully recognise Palos Verdes Blue (the rarest butterfly in the world), further advancements in the project involve adding more species of butterflies, particularly endangered and rare ones to the dataset, and finally deploying a real time object recognition model.
-
----
-
-## Project Outcome [2021 Updated]
-
-1.	Website where users can upload images/video feeds and get back the species of the butterfly(s) present.
-2.	Trained deep learning model that can recognise different butterfly species, particularly rare ones.
 
 ---
 ## References:
